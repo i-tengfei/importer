@@ -1,0 +1,16 @@
+{
+  "name": "importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "importer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrtone/importer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrtone/importer/issues"
+  },
+  "homepage": "https://github.com/mrtone/importer"
+}
